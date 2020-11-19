@@ -2935,7 +2935,7 @@ body.is-preload #banner:before {
 #cta .button.primary {
   box-shadow: none;
   background-color: #ffffff;
-  color: #f2ac57 !important;
+  color: #78150e !important;
 }
 #cta input[type="submit"].primary:hover,
 #cta input[type="reset"].primary:hover,
@@ -2982,7 +2982,7 @@ body.is-preload #banner:before {
 }
 #cta select option {
   color: rgba(255, 255, 255, 0.75);
-  background-color: #f2ac57;
+  background-color: #78150e;
 }
 #cta input[type="checkbox"] + label,
 #cta input[type="radio"] + label {
@@ -2997,7 +2997,7 @@ body.is-preload #banner:before {
 #cta input[type="radio"]:checked + label:before {
   background-color: #ffffff;
   border-color: #ffffff;
-  color: #f2ac57;
+  color: #78150e;
 }
 #cta input[type="checkbox"]:focus + label:before,
 #cta input[type="radio"]:focus + label:before {
@@ -3038,15 +3038,15 @@ body.is-preload #banner:before {
   border-color: rgba(255, 255, 255, 0.25);
 }
 #cta .highlights .content {
-  background: #f2ac57;
+  background: #78150e;
   box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025);
 }
 #cta .testimonials .content {
-  background: #f2ac57;
+  background: #78150e;
   box-shadow: 0px 0px 4px 1px rgba(255, 255, 255, 0.025);
 }
 #cta .testimonials .content .credit strong {
-  color: #f2ac57;
+  color: #78150e;
 }
 #cta .inner {
   position: relative;
